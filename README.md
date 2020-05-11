@@ -5,11 +5,11 @@ Informações
 -----------
 
 **Nome:** André Ferreira Martins  
-**Número de matrícula:** 201565010AC
+**Número de matrícula:** 201565010AC<br/>
 **Curso:** Ciência da Computação 
 
-**Nome:** Mathews Edwirds Gomes Almeida
-**Número de matrícula:** 201765503AB 
+**Nome:** Mathews Edwirds Gomes Almeida<br/>
+**Número de matrícula:** 201765503AB<br/>
 **Curso:** Engenharia Computacional 
 
 
